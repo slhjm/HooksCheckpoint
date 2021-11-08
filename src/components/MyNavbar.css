@@ -1,0 +1,12 @@
+.InputAreaStars {
+  margin-right: 20px;
+}
+.InputArea {
+  width: 600px !important;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 1110px;
+}
+.mynavbar {
+  position: sticky;
+}
